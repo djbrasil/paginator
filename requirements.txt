@@ -1,0 +1,6 @@
+beautifulsoup4 
+Django 
+django-bootstrap5
+pytz 
+soupsieve 
+sqlparse 
